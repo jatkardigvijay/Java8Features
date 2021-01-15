@@ -20,10 +20,10 @@ public class MinMaxEx {
 		System.out.println("The minimum value is : " + min);
 
 		Integer max = al.stream().max((i1, i2) -> i1.compareTo(i2)).get();
-		System.out.println("The miximum value is : " + max);
+		System.out.println("The maximum value is : " + max);
 
 		// can get max in this way also
 		Integer max1 = al.stream().max(Integer::compare).get();
-		System.out.println("The miximum value is : " + max1);
+		System.out.println("The maximum value is : " + max1);
 	}
 }

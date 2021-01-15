@@ -8,7 +8,7 @@ public class PeriodEx {
 
 	public static void main(String[] args) {
 
-		LocalDate birthDate = LocalDate.of(1965, Month.JUNE, 04);
+		LocalDate birthDate = LocalDate.of(1965, Month.NOVEMBER, 02);
 		LocalDate today = LocalDate.now();
 		Period p = Period.between(birthDate, today);
 		System.out.println("Your age is : " + p.getYears() + " years and " + p.getMonths() + " months" + " and "
