@@ -1,4 +1,4 @@
-package com.fbd.methodandconstructorrefusingdoublecolonoperator.part2;
+package com.jbd.methodandconstructorrefusingdoublecolonoperator.part2;
 
 public class Test {
 

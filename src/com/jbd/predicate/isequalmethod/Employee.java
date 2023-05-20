@@ -1,4 +1,4 @@
-package com.fbd.predicate.isequalmethod;
+package com.jbd.predicate.isequalmethod;
 
 public class Employee {
 

@@ -1,4 +1,4 @@
-package com.fbd.dateandtimeapi;
+package com.jbd.dateandtimeapi;
 
 import java.time.ZoneId;
 import java.time.ZonedDateTime;

@@ -1,4 +1,4 @@
-package com.fbd.methodandconstructorrefusingdoublecolonoperator.constructerref;
+package com.jbd.methodandconstructorrefusingdoublecolonoperator.constructerref;
 
 public class Test {
 

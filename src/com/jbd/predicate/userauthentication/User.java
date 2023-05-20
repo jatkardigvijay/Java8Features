@@ -1,4 +1,4 @@
-package com.fbd.predicate.userauthentication;
+package com.jbd.predicate.userauthentication;
 
 public class User {
 

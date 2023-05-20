@@ -1,4 +1,4 @@
-package com.fbd.function.functionchaining;
+package com.jbd.function.functionchaining;
 
 import java.util.function.Function;
 

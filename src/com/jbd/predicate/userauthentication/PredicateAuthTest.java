@@ -1,4 +1,4 @@
-package com.fbd.predicate.userauthentication;
+package com.jbd.predicate.userauthentication;
 
 import java.util.Scanner;
 import java.util.function.Predicate;

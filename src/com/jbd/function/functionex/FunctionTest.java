@@ -1,4 +1,4 @@
-package com.fbd.function.functionex;
+package com.jbd.function.functionex;
 
 import java.util.function.Function;
 
