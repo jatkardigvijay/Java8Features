@@ -1,4 +1,4 @@
-package com.fbd.unaryoperator;
+package com.jbd.unaryoperator;
 
 import java.util.function.IntUnaryOperator;
 

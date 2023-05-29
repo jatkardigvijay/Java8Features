@@ -1,4 +1,4 @@
-package com.fbd.primitive15function;
+package com.jbd.primitive15function;
 
 import java.util.function.IntToDoubleFunction;
 

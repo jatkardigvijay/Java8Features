@@ -1,4 +1,4 @@
-package com.fbd.primitivefunctionalinterface;
+package com.jbd.primitivefunctionalinterface;
 
 import java.util.function.Function;
 

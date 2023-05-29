@@ -1,4 +1,4 @@
-package com.fbd.primitivesupplier;
+package com.jbd.primitivesupplier;
 
 import java.util.function.IntSupplier;
 

@@ -1,4 +1,4 @@
-package com.fbd.streams;
+package com.jbd.streams;
 
 import java.util.stream.Stream;
 

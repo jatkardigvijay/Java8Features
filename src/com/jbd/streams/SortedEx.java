@@ -1,4 +1,4 @@
-package com.fbd.streams;
+package com.jbd.streams;
 
 import java.util.ArrayList;
 import java.util.List;

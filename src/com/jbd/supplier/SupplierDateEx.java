@@ -1,4 +1,4 @@
-package com.fbd.supplier;
+package com.jbd.supplier;
 
 import java.util.Date;
 import java.util.function.Supplier;
